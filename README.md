@@ -1,0 +1,1 @@
+## This is a repo containing my notes and pracitce with python
